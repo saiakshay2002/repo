@@ -12,7 +12,6 @@ print("height",height)
 print("wid",width)
 #print("chann",channels)
 print("size",si)
-#plt.imshow(img)
-#cv2.imshow("image1",img)
+
 
 

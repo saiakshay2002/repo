@@ -10,8 +10,6 @@ width=img.shape[1]
 si=img.size
 print("height",height)
 print("wid",width)
-#print("chann",channels)
-print("size",si)
 
 
 
